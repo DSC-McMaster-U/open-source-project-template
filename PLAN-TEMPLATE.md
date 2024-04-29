@@ -1,4 +1,4 @@
-# GDSC Open Source Project Requirements & Document Template
+# GDSC Open Source Project Planning & Documentation Template
 
 ## Table of Contents
   * [Purpose](#purpose)
